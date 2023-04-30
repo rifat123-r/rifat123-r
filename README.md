@@ -35,13 +35,10 @@ my professional growth and contribute to the success of the organization.
 
    
 ## Stats 📊
-
 ![Rifat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifat123-r&show_icons=true&theme=radical)
 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifat123-r)](https://github.com/rifat123-r/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
           
                                                                                                   
