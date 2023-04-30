@@ -35,6 +35,8 @@ my professional growth and contribute to the success of the organization.
 
 Tools:- 
 <img img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
+<i align="left" alt="Java" width="30px" style="padding-right:10px;" class="devicon-intellij-plain-wordmark"></i>
+          
           
                     
 
