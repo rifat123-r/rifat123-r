@@ -35,14 +35,8 @@ my professional growth and contribute to the success of the organization.
 
 ## Tools:- 
 <img img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
-          
+ 
+ 
+ http://github-profile-summary-cards.vercel.app/api/cards/profile-details?rifat123-r={rifat123-r}&theme={monokai}
           
                  
-## Stats 📊
-![Rifat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifat123-r&show_icons=true&theme=radical )
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifat123-r)](https://github.com/rifat123-r/github-readme-stats)
-          
-                                                                                                  
