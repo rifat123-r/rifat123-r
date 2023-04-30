@@ -37,6 +37,6 @@ my professional growth and contribute to the success of the organization.
 <img img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
  
  
- http://github-profile-summary-cards.vercel.app/api/cards/profile-details?rifat123-r={rifat123-r}&theme={monokai}
+ http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={rifat123-r}&theme={monokai}
           
                  
