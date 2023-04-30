@@ -1,20 +1,13 @@
-## Hi there!👋
+## Hi there! I am Rifat!!👋
 
 ## Glad to see you here!🤩
-I am Computer Science Engineering student and will be graduating in December 2023🎓 
-I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. 
-I love to explore new technologies and leverage them to solve real-life problems ✨.
-As a senior computer science student with a strong academic background and practical experience, 
-seeking a full-time job in the technology industry. My goal is to utilize my skills and knowledge to enhance 🪄
-my professional growth and contribute to the success of the organization.
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Learn more about web3
+- ⚡ Fun fact: Prefer tea ☕ over coffee
+- 🧩 Interested In : Technology, Photography, Space
+- 💬 Ask me about anything here ! I am happy to help🀄
 
-## Talking about Personal Stuffs:
-
-🧩 Interested In : Technology, Photography, Space
-
--⚡ Fun Fact : Prefer tea ☕ over coffee
-
-💬 Ask me about anything here ! I am happy to help🀄
 
 ## Programming Languages and Frameworks:-
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
