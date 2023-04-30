@@ -2,7 +2,7 @@
 
 ## Glad to see you here!🤩
 I am Computer Science Engineering student and will be graduating in December 2023🎓 
-I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. 
+/I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. 
 I love to explore new technologies and leverage them to solve real-life problems ✨.
 As a senior computer science student with a strong academic background and practical experience, 
 seeking a full-time job in the technology industry. My goal is to utilize my skills and knowledge to enhance 🪄
