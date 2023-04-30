@@ -29,12 +29,11 @@ my professional growth and contribute to the success of the organization.
 <img align="left" alt="C" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
 
 
-
-
-
-
-
 ## Tools:🛠️
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+<img align="left" alt="Java" width="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+               
+
  
 ## GitHub Profile Summary Cards:-📊
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rifat123-r&theme=monokai)
