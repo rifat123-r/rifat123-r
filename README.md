@@ -30,7 +30,6 @@ my professional growth and contribute to the success of the organization.
 
  
 ## GitHub Profile Summary Cards
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rifat123-r&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rifat123-r&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rifat123-r&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rifat123-r&theme=monokai) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rifat123-r&theme=monokai&utcOffset=8)
