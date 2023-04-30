@@ -8,6 +8,10 @@
 - 🧩 Interested In : Technology, Photography, Space
 - 💬 Ask me about anything here ! I am happy to help🀄
 
+## Education👨‍🎓
+- Temple University🏫
+- Bachelor of Science in Computer Science👨‍💻
+- Expected Graduation: December 2023👨‍🎓
 
 ## Programming Languages and Frameworks:-
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
