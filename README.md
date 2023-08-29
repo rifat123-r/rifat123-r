@@ -3,10 +3,9 @@
 ## Glad to see you here!🤩
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: Prefer tea ☕ over coffee
-- 🧩 Interested In : Technology, Photography, Space
-- 💬 Ask me about anything here ! I am happy to help🀄
+- 🧩 Interested In Technology, Photography, Space
+- 💬 Ask me about anything here! I am happy to help🀄
 
 ## Education👨‍🎓
 - Temple University🏫
