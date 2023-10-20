@@ -1,5 +1,8 @@
 ## Hi there! I am Rifat!!👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat123-r&label=Profile%20views&color=0e75b6&style=flat" alt="rifat123-r" /> </p>
+</p>
+
 ## Glad to see you here!🤩
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
