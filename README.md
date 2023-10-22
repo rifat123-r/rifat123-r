@@ -53,7 +53,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rifat123-r&theme=dark&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rifat123-r&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [rifat123-r/github-profile-3d-contrib](https://github.com/rifat123-r/github-profile-3d-contrib)
 ![](./profile-3d-contrib/profile-green-animate.svg)
+
