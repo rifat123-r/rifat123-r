@@ -13,7 +13,7 @@
 ## Education👨‍🎓
 - Temple University🏫
 - Bachelor of Science in Computer Science👨‍💻
-- Expected Graduation: December 2023👨‍🎓
+- Graduation: December 2023👨‍🎓
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/main-rifat-71b025172/) 
